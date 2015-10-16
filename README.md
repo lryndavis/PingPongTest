@@ -4,11 +4,11 @@
 
 ### Description 
 
-The Ping Pong test is a program built using Javascript and JQuery.
-It allows the user to enter a number, then displays all numbers up to that number. 
-For multiples of 3, the page prints "PING"
-For multiples of 5, the page prints "PONG"
-For multiples of both 3 and 5, the page prints "PING-PONG!"
+- The Ping Pong test is a program built using Javascript and JQuery.
+- It allows the user to enter a number, then displays all numbers up to that number. 
+- For multiples of 3, the page prints "PING"
+- For multiples of 5, the page prints "PONG"
+- For multiples of both 3 and 5, the page prints "PING-PONG!"
 
 ### Setup 
 Access at http://github.com/lryndavis/PingPongTest
